@@ -15,6 +15,13 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 Resummit – AI Resume Builder & Developer Workspace
+📌 Connects to GitHub to analyze commits and instantly generate recruiter-ready, ATS-optimized resumes.
+🤖 Parses repo structures & commit history using Gemini AI to synthesize professional bullet points
+📊 Performs real-time ATS auditing, keyword-density checks, and weak-signal analysis
+⚡ High-fidelity split-screen layout with interactive editor, markdown support, and debounced auto-saves
+👉 [View Project](https://resummit.vercel.app)
+
 ### 🔹 Nexio – AI Lead Management SaaS  
 📌 AI-powered platform to automate lead generation, scoring, and outreach  
 - 🤖 Uses LLMs for personalized cold messages  
